@@ -1,0 +1,7 @@
+name: cyber-queueMgr
+description: |
+   CyberCloud streaming platform Queuing service
+version: 1.0.0-rancher1
+category: Clustering
+maintainer: "cybercloud<mark_mrwen@163.com>"
+minimum_rancher_version: v2.9.11

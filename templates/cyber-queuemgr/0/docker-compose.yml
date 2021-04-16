@@ -1,0 +1,7 @@
+broker:
+  tty: true
+  image: 192.168.15.74:8088/library/cyber-queuemgr:2.9.11
+  volumes:
+  - /tmp/
+  environment:
+  external_links:

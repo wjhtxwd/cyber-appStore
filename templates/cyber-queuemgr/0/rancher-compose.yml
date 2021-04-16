@@ -1,0 +1,9 @@
+.catalog:
+  name: "queuemgr"
+  version: "v2.9.11"
+  description: "cybercloud queueservice"
+  uuid: queuemgr-0
+  minimum_rancher_version: v0.51.0
+  questions:
+
+queuemgr:
